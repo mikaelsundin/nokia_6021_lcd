@@ -1,0 +1,4 @@
+
+VLED should be 6.9V 
+    Resistor divider from pdf is 15k with 3.3k.
+    With 1.25V MC34063 reference voltage this should be 6.9V.
