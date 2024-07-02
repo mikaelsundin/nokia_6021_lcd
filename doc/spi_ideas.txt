@@ -1,0 +1,4 @@
+Always send 8 commands via SPI (9bytes).
+Fill rest of bits with LCD NOP COMMANDS to be able to use 8bit SPI hardware.
+
+
